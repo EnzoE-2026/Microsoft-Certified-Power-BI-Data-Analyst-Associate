@@ -14,5 +14,6 @@ The PL‑300 (Microsoft Power BI Data Analyst) certification validates your abil
 
 
 ## Fundamnetal topics
-- [Power Query[(https://example.com)
+- [Power Query](https://github.com/user-attachments/files/27095794/What-Is-Power-Q.md)
+
 

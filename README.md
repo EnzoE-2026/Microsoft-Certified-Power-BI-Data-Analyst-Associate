@@ -7,6 +7,6 @@ The PL‑300 (Microsoft Power BI Data Analyst) certification validates your abil
 
 - Module #1 [Get started with Microsoft data analytics](https://github.com/EnzoE-2026/Get-started-with-Microsoft-data-analytics)
 
-- Module #2 [Get started building with Power BI](https://github.com/EnzoE-2026/Get-started-Microsoft-Power-BI)
+- Module #2 [Prepare data for analysis with Power BI](https://github.com/EnzoE-2026/Get-started-Microsoft-Power-BI)
 
 - Module #3 
